@@ -6,5 +6,5 @@
 ## Сервисы управления командой и разработкой
 - [Trello](https://trello.com/b/Z4ZbZ73K/academicperformance)
 ## Документация
-- [Курсовой проект](documentation/Course_work.pdf)
+- [Курсовой проект](Documentation/Course_work.pdf)
 
