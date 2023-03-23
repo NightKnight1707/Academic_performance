@@ -3,6 +3,7 @@
 # Участники проекта
 - [Семенихин Константин](https://github.com/NightKnight1707)
 - [Екатерина Парфенова](https://github.com/parfenovak)
+## Сервисы управления командой и разработкой
+- [Trello](https://trello.com/b/Z4ZbZ73K/academicperformance)
 ## Документация
-- [Техническое задание](documentation/Technical_task_MoneyPie.pdf)
-- [Курсовой проект](documentation/Course_work_MoneyPie.pdf)
+- [Курсовой проект](documentation/Курсовой проект2.pdf)
