@@ -5,7 +5,7 @@
 - [Екатерина Парфенова](https://github.com/parfenovak)
 ## Сервисы управления командой и разработкой
 - [Trello](https://trello.com/b/Z4ZbZ73K/academicperformance)
-- [Miro] (https://miro.com/app/board/uXjVMa8gDEk=/)
+- [Miro](https://miro.com/app/board/uXjVMa8gDEk=/)
 ## Документация
 - [Курсовой проект](Documentation/Course_work.pdf)
 
