@@ -10,5 +10,5 @@
 ## Документация
 - [Курсовой проект](Documentation/Course_work.pdf)
 - [ТЗ](Documentation/Tech_Task.docx)
-- [Презентация](Documentation/Presentation.pptx)
+- [Презентация](Documentation/Презентация.pdf)
 
