@@ -3,6 +3,7 @@
 # Участники проекта
 - [Семенихин Константин](https://github.com/NightKnight1707)
 - [Екатерина Парфенова](https://github.com/parfenovak)
+- [Еремеев Александр](https://github.com/Shultz88)
 ## Сервисы управления командой и разработкой
 - [Trello](https://trello.com/b/Z4ZbZ73K/academicperformance)
 - [Miro](https://miro.com/app/board/uXjVMa8gDEk=/)
